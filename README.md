@@ -1,3 +1,7 @@
+## About
+
+This is a mini project to help extract italian words from images and be able to efficiently add them to a spreadsheet database of italian words.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
