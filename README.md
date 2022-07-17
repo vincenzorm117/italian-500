@@ -4,6 +4,13 @@ This is a mini project to help extract italian words from images and be able to 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Demo
+
+
+https://user-images.githubusercontent.com/1907027/179417968-3e4566ba-8901-4af9-a227-014f33d8ac73.mp4
+
+
+
 ## Getting Started
 
 First, run the development server:
